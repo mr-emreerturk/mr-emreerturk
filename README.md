@@ -1,4 +1,4 @@
-### 👋 Hi there 
+## 👋 Hi there 
 I'm a digital marketing professional who focuses on analyzing data to increase the performance.
 
 - 💼 I am currently working as a Media Buyer/Marketing Analytst at [EMF Media](emf.media)
