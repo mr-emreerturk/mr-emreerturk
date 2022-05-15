@@ -23,7 +23,7 @@ I'm a digital marketing professional who specializes on data analysis to increas
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 🎒 Selected Projects:
+## 🎒 Project Portfolio:
 ### [Project 1: Sales Exploratory Data Analysis](https://github.com/mr-emreerturk/data_analysis_projects/blob/update/SalesAnalysis/SalesAnalysis.ipynb)
   - `Python` `Pandas` `Matplotlib`
 
