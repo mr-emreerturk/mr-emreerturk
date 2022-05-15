@@ -7,11 +7,6 @@ I'm a digital marketing professional who focuses on analyzing data to increase t
 - 🤓 In my free time I create projects to further sharpen my skills as analyst using mostly Python, SQL, Excel, and Tableau
 - ⚡️ Fun Fact: I am born and raised in Germany 🇩🇪, have turkish/georgian heritage 🇹🇷🇬🇪, and live in Barbados 🇧🇧
 
-
-## 🔗 Connect with me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-emre-erturk/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mr_emreerturk)
-
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/python-333333?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%3333333.svg?style=for-the-badge&logo=pandas&logoColor=ffdd54)
@@ -31,3 +26,7 @@ I'm a digital marketing professional who focuses on analyzing data to increase t
 ## 🎒 Selected Projects:
 ### [Project 1: Sales Exploratory Data Analysis](https://github.com/mr-emreerturk/data_analysis_projects/blob/update/SalesAnalysis/SalesAnalysis.ipynb)
   - `Python` `Pandas` `Matplotlib`
+
+## 🔗 Connect with me
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-emre-erturk/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mr_emreerturk)
