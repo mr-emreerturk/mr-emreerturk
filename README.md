@@ -29,3 +29,7 @@ I'm a digital marketing professional who focuses on analyzing data to increase t
 
 
 ## 🎒 Selected Projects:
+### [Project 1: Sales Exploratory Data Analysis](https://github.com/mr-emreerturk/data_analysis_projects/blob/update/SalesAnalysis/SalesAnalysis.ipynb)
+![Python](https://img.shields.io/badge/python-333333?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%3333333.svg?style=for-the-badge&logo=pandas&logoColor=ffdd54)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-333333?style=for-the-badge&logo=Matplotlib&logoColor=white)
