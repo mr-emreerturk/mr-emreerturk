@@ -1,5 +1,5 @@
 ## 👋 Hi there 
-I'm a digital marketing professional who focuses on analyzing data to increase the performance.
+I'm a digital marketing professional who specializes on data analysis to increase performance and fascilitate growth.
 
 - 💼 I am currently working as a Media Buyer/Marketing Analytst at [EMF Media](emf.media)
 - 🎓 I graduated with a B.Sc. in economics at [Goethe University](https://www.uni-frankfurt.de/35791335/Wirtschaftswissenschaften___br__Bachelor_of_Science)
