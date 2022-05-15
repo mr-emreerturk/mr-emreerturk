@@ -14,15 +14,15 @@ I'm a digital marketing professional who focuses on analyzing data to increase t
 
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/python-333333?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%3333333.svg?style=for-the-badge&logo=pandas&logoColor=ffdd54)
 ![Seaborn](https://img.shields.io/badge/Seaborn-333333?style=for-the-badge&logo=Seaborn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%3333333.svg?style=for-the-badge&logo=numpy&logoColor=ffdd54)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-333333?style=for-the-badge&logo=Matplotlib&logoColor=white)
 
-![Tableau](https://img.shields.io/badge/Tableau-333333?style=for-the-badge&logo=Tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-217346?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
