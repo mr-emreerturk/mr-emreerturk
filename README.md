@@ -29,9 +29,9 @@ I'm a digital marketing professional who specializes on data analysis to increas
 
 ### [Project 2: Bulding AirBnB Database](https://github.com/mr-emreerturk/airbnb_database)
   - `MySQL` `Excel`
-  - 
+
 ### [Project 3: Backend Habit Tracker](https://github.com/mr-emreerturk/Erturk-Emre_92115165_OOFPP_-Habits)
-  - `MySQL` `Excel`
+  - `Python`
 
 ## 🔗 Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-emre-erturk/)
