@@ -5,7 +5,7 @@ I'm a digital marketing professional who specializes on data analysis to increas
 - 🎓 I graduated with a B.Sc. in economics at [Goethe University](https://www.uni-frankfurt.de/35791335/Wirtschaftswissenschaften___br__Bachelor_of_Science)
 - 🥅 I will finish my B.Sc. in Data Science in 2023 at [IU International University of Applied Sciences](https://www.iu.org/bachelor/data-science/)
 - 🤓 In my free time I create projects to further sharpen my skills as analyst using mostly Python, SQL, Excel, and Tableau
-- ⚡️ Fun Fact: I am born and raised in Germany 🇩🇪, have turkish/georgian heritage 🇹🇷🇬🇪, and live in Barbados 🇧🇧
+- ⚡️ Fun Fact: I am born and raised in Germany 🇩🇪, have Turkish/Georgian heritage 🇹🇷🇬🇪, and live in Barbados 🇧🇧
 
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/python-333333?style=for-the-badge&logo=python&logoColor=ffdd54)
