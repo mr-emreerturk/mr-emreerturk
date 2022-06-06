@@ -1,7 +1,7 @@
 ## 👋 Hi there 
 I'm a digital marketing professional who specializes on data analysis to increase performance and fascilitate growth.
 
-- 💼 I am currently working as a Media Buyer/Marketing Analytst at [EMF Media](emf.media)
+- 💼 I am currently working as a Media Buyer/Marketing Analytst at [EMF Media](https://emf.media)
 - 🎓 I graduated with a B.Sc. in economics at [Goethe University](https://www.uni-frankfurt.de/35791335/Wirtschaftswissenschaften___br__Bachelor_of_Science)
 - 🥅 I will finish my B.Sc. in Data Science in 2023 at [IU International University of Applied Sciences](https://www.iu.org/bachelor/data-science/)
 - 🤓 In my free time I create projects to further sharpen my skills as analyst using mostly Python, SQL, Excel, and Tableau
