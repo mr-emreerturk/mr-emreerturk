@@ -27,10 +27,13 @@ I'm a digital marketing professional who specializes on data analysis to increas
 ### [Project 1: Sales Exploratory Data Analysis](https://github.com/mr-emreerturk/data_analysis_projects/blob/update/SalesAnalysis/SalesAnalysis.ipynb)
   - `Python` `Pandas` `Matplotlib`
 
-### [Project 2: Bulding AirBnB Data Mart](https://github.com/mr-emreerturk/airbnb_datamart/blob/main/README.md)
-  - `MySQL` `Excel`
+### [Project 2: Marketing Analytics SQL Case Study](https://github.com/mr-emreerturk/Marketing_Analytics_CaseStudy_SQL)
+  - `MySQL` `Docker`
 
-### [Project 3: Backend Habit Tracker](https://github.com/mr-emreerturk/Erturk-Emre_92115165_OOFPP_-Habits)
+### [Project 3: Mental Health in Tech: Preprocessing, EDA, Clustering](https://github.com/mr-emreerturk/Mental_Health_in_Tech-Clusterting)
+  - `Python` `Pandas` `Sklearn` `PCA`  `Seaborn` 
+
+### [Project 4: Backend Habit Tracker](https://github.com/mr-emreerturk/Erturk-Emre_92115165_OOFPP_-Habits)
   - `Python`
 
 ## 🔗 Connect with me
