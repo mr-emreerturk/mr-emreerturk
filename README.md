@@ -24,7 +24,7 @@ I'm a digital marketing professional who specializes on data analysis to increas
 
 ## 🎒 Project Portfolio:
 
-### [Project 1: Crypto scraping & Visualization](https://github.com/mr-emreerturk/crypto_scraping_project)
+### [Project 1: Crypto Scraping & Visualization](https://github.com/mr-emreerturk/crypto_scraping_project)
 - `Python` `Selenium` `Streamlit` `Plotly Express`
 
 ### [Project 2: Mental Health in Tech: Clustering](https://github.com/mr-emreerturk/Mental_Health_in_Tech-Clusterting)
