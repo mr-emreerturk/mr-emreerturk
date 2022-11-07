@@ -22,20 +22,23 @@ I'm a digital marketing professional who specializes on data analysis to increas
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
 ## 🎒 Project Portfolio:
-### [Project 1: Mental Health in Tech: Preprocessing, EDA, Clustering](https://github.com/mr-emreerturk/Mental_Health_in_Tech-Clusterting)
+
+### [Project 1: Crypto scraping & Visualization](https://github.com/mr-emreerturk/crypto_scraping_project)
+- `Python` `Selenium` `Streamlit` `Plotly Express`
+
+### [Project 2: Mental Health in Tech: Clustering](https://github.com/mr-emreerturk/Mental_Health_in_Tech-Clusterting)
   - `Python` `Pandas` `Sklearn` `PCA`  `Seaborn`
 
-### [Project 2: Marketing Analytics SQL Case Study](https://github.com/mr-emreerturk/Marketing_Analytics_CaseStudy_SQL)
+### [Project 3: Marketing Analytics SQL Case Study](https://github.com/mr-emreerturk/Marketing_Analytics_CaseStudy_SQL)
   - `MySQL` `Docker`
 
-### [Project 3: Sales Exploratory Data Analysis](https://github.com/mr-emreerturk/data_analysis_projects/blob/update/SalesAnalysis/SalesAnalysis.ipynb)
+### [Project 4: Sales Exploratory Data Analysis](https://github.com/mr-emreerturk/data_analysis_projects/blob/update/SalesAnalysis/SalesAnalysis.ipynb)
   - `Python` `Pandas` `Matplotlib`
 
-### [Project 4: Backend Habit Tracker](https://github.com/mr-emreerturk/Erturk-Emre_92115165_OOFPP_-Habits)
+### [Project 5: Backend Habit Tracker](https://github.com/mr-emreerturk/Erturk-Emre_92115165_OOFPP_-Habits)
   - `Python`
 
 ## 🔗 Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-emre-erturk/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mr_emreerturk)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/the_emre_erturk)
